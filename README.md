@@ -39,13 +39,13 @@ formulario, el listado debajo de este y el reproductor por encima de este.
     +--------------+
 ```
 
-El diseño es arbitratio y podes usar el framework de CSS que quieras. Si es responisibe suma puntos!
+El diseño es arbitrario y podes usar el framework de CSS que quieras. Si es responsibe suma puntos!
 Podes usar la `API` de YouTube o podes implementar un iframe. Recordá incluir lo
 neceario para las credenciales en el `.env` si fuese necesario.
 
 
 El listado debe guardarse de forma local usando `localStorage` o algún mecanismo similar
-(cookies?), es iumportante que éste se mantenga vivo incluso después de refrescar la página.
+(cookies?), es importante que éste se mantenga vivo incluso después de refrescar la página.
 
 
 ## Tests
